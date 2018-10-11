@@ -658,7 +658,7 @@ li {
 }
 
 .single-hero-slides {
-    position: relative;
+    position: relative;    
     z-index: 1;
     height: 770px;
     width: 100%;
